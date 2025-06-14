@@ -1,0 +1,3 @@
+Vấn đề tồn đọng:
+1. Page giao dich phần hiển thị danh sách chua sap xep
+2. Page giao dich phan hien thi button thay doi thang chua dep
